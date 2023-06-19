@@ -1,5 +1,5 @@
 # WorkoutApp
-
+Project link: https://merry-tarsier-4e076f.netlify.app/
 
 <h2 style="font-size:40px">Description</h2>
 <p>Project was influenced by my love for working out,staying healthy and JavaScript. I wanted to get better at using different API’s and writing cleaner code , so what’s better than combining the two!
